@@ -2,7 +2,7 @@
 Use http://customvision.ai to detect US street signs
 
 ## Why
-Street signs are part of a city's asset management mandate. Maintenance of street signage is key municipal operation that ensures safety.
+Street signs are part of a city's asset management mandate. Maintenance of street signage is key municipal operation that ensures traffic safety. Street signs are also important for the the safe navigation of Autonomous vehicles
 
 ## What
 Develop a computer vision model that is trained on US street signage and test it on street view imagery.
