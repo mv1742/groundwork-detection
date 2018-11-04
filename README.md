@@ -31,6 +31,6 @@ Use http://customvision.ai - an easy-to-use computer vision toolkit developed by
 ARGO project supervisor: Varun Adibhatla
 CUSP Students: 
 
-### Roles 
-- Project scribe: CUSP student who will take notes during check-in.
+### Operational Roles 
+- Project scribe: CUSP student who will take notes during check-in and manage the github repo (code,readme, issues)
 - Project logistics: CUSP student who ensures meetings are scheduled and handles conference/video calls.
