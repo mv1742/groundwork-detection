@@ -1,4 +1,4 @@
-# street-sign-detection
+# groundwork-detection
 Use http://customvision.ai to detect US street signs
 
 ## Why
