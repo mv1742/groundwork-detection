@@ -1,5 +1,5 @@
 # groundwork-detection
-Use http://customvision.ai to detect US street signs
+ARGO internship project to use http://customvision.ai to detect features from US Street imager
 
 ## Why
 Small improvements in "Maintenance, management of state assets and public-sector accounting", [according to a recent Economist op-ed](https://www.economist.com/leaders/2018/10/20/large-economic-gains-can-come-from-mundane-improvements-in-policy)  could lead to large economic gains for cities, states, and entire nations.
