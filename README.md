@@ -17,6 +17,7 @@ Use http://customvision.ai - an easy-to-use computer vision toolkit developed by
 
 ## When
 ### Week 1 - Orientation
+- Read the [SQUID Story](https://www.hackster.io/argo/squid-street-quality-identification-a43367)
 - Learn how to use http://customvision.ai to develop quick computer vision applications.
 - Learn how to collect street view imagery at a citywide scale using [Google Street View API](https://developers.google.com/maps/documentation/streetview/intro) and [Open Street Cam - OSC](http://openstreetcam.org/) and our [OSC-ETL tools](https://github.com/Streets-Data-Collaborative/osc-tools).
 - Develop and Document simple data specifications for each of the detections.
