@@ -35,6 +35,7 @@ Use http://customvision.ai - an easy-to-use computer vision toolkit developed by
 
 ## Who
 ARGO project supervisor: Varun Adibhatla
+
 CUSP Students
 
 ### Operational Roles 
