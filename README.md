@@ -1,4 +1,4 @@
-# groundwork-detection
+# Groundwork-detection
 ARGO internship project to use http://customvision.ai to detect features from US Street imager
 
 ## Motivation
